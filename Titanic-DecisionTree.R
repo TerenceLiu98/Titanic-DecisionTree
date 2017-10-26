@@ -4,7 +4,7 @@ library(caTools)
 library(rpart)
 
 #Load the training data
-setwd('C:\\Venkat\\Github\\Titanic-DecisionTree')
+#setwd('Select the folder that contains the train.csv')
 titanic = read.csv('train.csv')
 names(titanic)
 
