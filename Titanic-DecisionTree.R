@@ -1,4 +1,4 @@
-#Predicting Titanic survival rate using logistic regression
+#Predicting Titanic survival rate using decision tree
 library(mice)
 library(caTools)
 library(rpart)
